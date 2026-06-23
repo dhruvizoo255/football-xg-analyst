@@ -292,12 +292,6 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
-
-Add dashboard screenshots here.
-
----
-
 # 👨‍💻 Author
 
 **Dhruv Kapoor**
